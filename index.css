@@ -1,0 +1,4 @@
+/* 
+  Tailwind directives are removed because we are using the CDN in index.html 
+  to ensure the design works immediately without relying on the build pipeline.
+*/
