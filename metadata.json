@@ -1,0 +1,5 @@
+{
+  "name": "Hybrid Option Pricing Engine",
+  "description": "Advanced valuation engine for RCPS, CB, and CPS instruments, featuring Tsiveriotis–Fernandes lattice with anti-dilution (refixing) support.",
+  "requestFramePermissions": []
+}
